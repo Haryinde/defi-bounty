@@ -129,4 +129,6 @@ npm install --save
 node index.js
 ```
 ## Output 
+<img width="677" alt="swap_output" src="https://github.com/user-attachments/assets/a947e0b2-55dc-4a13-8bb6-830ba03db36c">
+
 
