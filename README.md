@@ -15,6 +15,8 @@ The script leverages the following smart contracts:
 - AAVE Lending Pool: To supply the swapped DAI for earning interest.
 
 ## Diagram Illustration 📈📈
+<img width="500" alt="illustration" src="https://github.com/user-attachments/assets/ae018475-9fe6-486c-aeb9-9aa811fbb7f3"> 
+
 ## Code Explanation
 The script focus on swapping 1 USDC to DAI using Uniswap Router, then proceeds to supply the DAI gotten on AAVE Pool to earn interests.
 
@@ -23,7 +25,8 @@ The script focus on swapping 1 USDC to DAI using Uniswap Router, then proceeds t
 ```javascript
 const USDC = {
   chainId: 11155111,
-  address: "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
+  address: "0x1c7D4B196Cb0C7
+B01d743Fbc6116a902379C7238",
   decimals: 6,
   symbol: "USDC",
   name: "USD//C",
